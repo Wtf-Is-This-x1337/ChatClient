@@ -1,0 +1,10 @@
+D:\Github-Rep\cpp-ChatApp\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+D:\Github-Rep\cpp-ChatApp\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+D:\Github-Rep\cpp-ChatApp\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+D:\Github-Rep\cpp-ChatApp\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\Github-Rep\cpp-ChatApp\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+D:\Github-Rep\cpp-ChatApp\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\Github-Rep\cpp-ChatApp\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+D:\Github-Rep\cpp-ChatApp\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+D:\Github-Rep\cpp-ChatApp\ChatClient\ChatClient\obj\Debug\ChatClient.ChatForm.resources
+D:\Github-Rep\cpp-ChatApp\ChatClient\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
