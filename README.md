@@ -16,7 +16,7 @@
 
 ## How to use
 1. Run .\ChatClient\bin\Debug\ChatClient.exe
-2. Start the [server](https://google.com) on an unused local port
+2. Start the [server](https://github.com/Wtf-Is-This-x1337/ChatServer) on an unused local port
 3. Write your ip (default is localhost), port (default is 54000) and username (default is test)
 4. Click on connect
           
